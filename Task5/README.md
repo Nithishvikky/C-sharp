@@ -10,8 +10,6 @@
   - `IOException` (file access related issues),
   - General exceptions (`Exception`).
 
----
-
 ## Learned Things:
 - **File I/O in C#** using `File.ReadAllLines()`, `File.ReadAllText()`, and `StreamWriter`.
 - How to check if a file exists using `File.Exists()`.

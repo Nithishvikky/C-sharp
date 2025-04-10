@@ -1,0 +1,7 @@
+Text from "input.txt" file
+
+Hello I am nithish
+Currently working on files
+Trying grasp the concept
+Line count : 3
+Word count : 12

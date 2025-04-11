@@ -1,0 +1,15 @@
+C:\Users\nithi\OneDrive\Desktop\Presidio\C#\Task7\obj\Debug\net9.0\Task7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nithi\OneDrive\Desktop\Presidio\C#\Task7\obj\Debug\net9.0\Task7.AssemblyInfoInputs.cache
+C:\Users\nithi\OneDrive\Desktop\Presidio\C#\Task7\obj\Debug\net9.0\Task7.AssemblyInfo.cs
+C:\Users\nithi\OneDrive\Desktop\Presidio\C#\Task7\obj\Debug\net9.0\Task7.csproj.CoreCompileInputs.cache
+C:\Users\nithi\OneDrive\Desktop\Presidio\C#\Task7\obj\Debug\net9.0\Task7.sourcelink.json
+C:\Users\nithi\OneDrive\Desktop\Presidio\C#\Task7\bin\Debug\net9.0\Task7.exe
+C:\Users\nithi\OneDrive\Desktop\Presidio\C#\Task7\bin\Debug\net9.0\Task7.deps.json
+C:\Users\nithi\OneDrive\Desktop\Presidio\C#\Task7\bin\Debug\net9.0\Task7.runtimeconfig.json
+C:\Users\nithi\OneDrive\Desktop\Presidio\C#\Task7\bin\Debug\net9.0\Task7.dll
+C:\Users\nithi\OneDrive\Desktop\Presidio\C#\Task7\bin\Debug\net9.0\Task7.pdb
+C:\Users\nithi\OneDrive\Desktop\Presidio\C#\Task7\obj\Debug\net9.0\Task7.dll
+C:\Users\nithi\OneDrive\Desktop\Presidio\C#\Task7\obj\Debug\net9.0\refint\Task7.dll
+C:\Users\nithi\OneDrive\Desktop\Presidio\C#\Task7\obj\Debug\net9.0\Task7.pdb
+C:\Users\nithi\OneDrive\Desktop\Presidio\C#\Task7\obj\Debug\net9.0\Task7.genruntimeconfig.cache
+C:\Users\nithi\OneDrive\Desktop\Presidio\C#\Task7\obj\Debug\net9.0\ref\Task7.dll

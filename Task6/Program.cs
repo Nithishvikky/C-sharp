@@ -41,7 +41,7 @@ class Program{
 
         for(int i=0;i<end;i++){
             c.Increment(i);
-            Thread.Sleep(1000); // Stops the iteration by 1 sec 
+            Thread.Sleep(3000); // Stops the iteration by 1 sec 
         }
 
         c.Threshold -= new ThresholdHandler(ThresholdReachedHandler1);  // Unsubscribed Handler1
